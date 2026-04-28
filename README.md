@@ -1,1 +1,1 @@
-# playwrite-practice
+# playwright-practice
